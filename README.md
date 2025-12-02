@@ -23,4 +23,5 @@ Ex. animator and 3d modeler.
 -   **Discord:** nuriderburrito
 
 Pronouns: he/him
+
 Have a great day
