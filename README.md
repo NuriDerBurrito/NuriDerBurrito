@@ -2,7 +2,7 @@
 
 Im Nuri, a CS artificial intelligence student based in egypt.
 
-Founder of Genesis Iterations and a second-year Computer Science & Artificial Intelligence student. Passionate about the practical applications of generative AI, including Stable Diffusion and Large Language Models (LLMs), with a focus on building tools that simplify complex processes or whatever i can imagine.
+Founder of Genesis Iterations and a second-year Computer Science & Artificial Intelligence student. Passionate about the practical applications of generative AI, including Stable Diffusion and Large Language Models (LLMs), with a focus on building tools that simplify complex processes or whatever comes to mind that can be of a future convenience.
 
 Ex. animator and 3d modeler.
 
@@ -12,12 +12,14 @@ Ex. animator and 3d modeler.
 -   Generative AI, Stable Diffusion, and LLMs
 -   Prompt engineering and utilizing AI as a tool
 -   System Organization and Simplification
+-   Database management
 -   End-to-end Project Development
--   Educating
+-   creating new lifeforms
+-   Advising
 -   Cats
 
 ### Tools Worth Mentioning
--   **Languages:** Python, HTML, CSS, SQL, Javascript
+-   **Languages:** Python, HTML, CSS, SQL/NOSQL, Javascript, Java
 -   **Design & Productivity:** Adobe Photoshop, Microsoft Office Suite, PostgresSQL, Electron-forge
 
 ### How to Reach Me
